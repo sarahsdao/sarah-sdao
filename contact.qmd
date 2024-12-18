@@ -1,0 +1,12 @@
+---
+format:
+  html: 
+    fontsize: 12pt
+toc: false
+---
+
+## GET IN TOUCH
+
+[email me](mailto:sarahsdao@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/sarahsdao/)

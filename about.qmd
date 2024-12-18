@@ -1,0 +1,84 @@
+---
+format:
+  html: 
+    fontsize: 12pt
+---
+
+## PROFILE
+
+I am an experienced and dedicated remote worker, writer, editor, librarian, and communicator. I understand the perspective of software users and collaborates with developers to create documentation that works. I am also a quick learner who adapts well to new environments and builds positive relationships with partners and stakeholders.
+
+## EDUCATION
+
+**University of Illinois at Urbana-Champaign**
+
+Master of Science, Library & Information Science |
+2016 | GPA 3.9
+
+**University of Nebraska-Lincoln**
+
+Bachelor of Arts, English |
+2011 | GPA 3.9
+
+## CAREER
+### TECHNICAL WRITER 
+
+Posit, PBC | May 2023 - November 2023; December 2024 - Present
+
+- Works with developers to write concise, digestible, and accurate documentation for the Posit software products.
+- Conducts reviews of documentation to ensure content across software products is consistent with Style Guide standards.
+- Coordinates updates to documentation with other technical writers, developers, and company stakeholders.
+- Using the docs-as-code philosophy, leverages development tools/languages to write documentation, including: Git/GitHub,
+markdown/Material for MKDocs, Quarto, and Visual Studio Code.
+
+### DIGITIZATION PROJECTS COORDINATOR
+
+Nebraska State Historical Society | July 2021 - May 2022
+
+- Oversaw digitization workflows of all materials in accordance with accepted standards.
+- Supervised and managed a team of students, employees and volunteers.
+- Provided guidance and training for staff/volunteers in the handling of archival collections and the digitization workflows.
+- Scanned collection materials and created qualified Dublin Core metadata records for scanned materials.
+- Conducted quality control for scans and metadata records.
+- Delegated reference inquiries from the public to staff for response and answered ready-reference questions.
+- Created and maintained training materials for digitization workflows as well as archival reference work.
+
+### VIRTUAL REFERENCE LIBRARIAN
+
+Chatstaff | October 2016 - July 2021
+
+- Used the LibraryH3lp platform to answer patron questions from hundreds of academic and public libraries across the globe.
+- Gained expert knowledge using LMS software and databases including, but not limited to: EBSCO, ProQuest, JSTOR, GALE,
+PubMed, Nexis Uni, Westlaw, and SimplyAnalytics.
+- Handled multiple (4+) chat reference interviews on varying topics and from various libraries simultaneously.
+- Assisted students with citation questions for APA, MLA, and Chicago styles and instructed on bibliographic management software such as
+EndNote and Zotero.
+- Created on-demand narrated videos in real time using TechSmith Capture to demonstrate various aspects of the research process.
+
+### GRADUATE RESEARCH ASSISTANT
+
+iSchool Student Affairs - University of Illinois Urbana-Champaign | August 2014 - August 2016
+
+- Researched solutions and proposed ideas to engage students and faculty in various iSchool programs.
+- Developed, coordinated, and led the Academic Success Series program for both on-campus and distance students.
+- Coordinated and edited weekly newsletters, sent to all iSchool Masters and PhD students, faculty, and staff.
+- Represented iSchool Student Affairs at ALA Midwinter and ILA conferences.
+- Served as career consultant for peers: helped students develop and finalize résumés, CVs, and cover letters.
+- Updated iSchool webpages.
+
+### PRACTICUM INTERN: INSTRUCTION AND OPEN EDUCATIONAL RESOURCES (OER) 
+
+Binghamton University Libraries | January 2016 - May 2016
+
+- Researched and created OER instruction materials for library staff, faculty, and students.
+- Created, updated, and taught research skills programming for undergraduate students.
+- Created and maintained instruction (LibGuide and class) on ProQuest RefWorks.
+- Answered students’ research questions at the reference desk.
+
+### COMMUNICATIONS ANALYST  
+
+State Farm Insurance | November 2011 - August 2014
+
+- Researched, designed, produced, edited, and implemented communication and change management solutions to meet business needs.
+- Provided communication consulting services, including audience and business needs analysis, development of communication strategies and the development of cost-effective delivery options.
+- Created technical documentation (training materials, support guides, and memorandums) to support the claims automations and procedures department.
