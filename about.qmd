@@ -6,7 +6,7 @@ format:
 
 ## PROFILE
 
-I am an experienced and dedicated remote worker, writer, editor, librarian, and communicator. I understand the perspective of software users and collaborates with developers to create documentation that works. I am also a quick learner who adapts well to new environments and builds positive relationships with partners and stakeholders.
+I am an experienced and dedicated remote worker, writer, editor, librarian, and communicator. I understand the perspective of software users and collaborate with developers to create documentation that works. I am also a quick learner who adapts well to new environments and builds positive relationships with partners and stakeholders.
 
 ## EDUCATION
 
@@ -30,6 +30,8 @@ Posit, PBC | May 2023 - November 2023; December 2024 - Present
 - Coordinates updates to documentation with other technical writers, developers, and company stakeholders.
 - Using the docs-as-code philosophy, leverages development tools/languages to write documentation, including: Git/GitHub,
 markdown/Material for MKDocs, Quarto, and Visual Studio Code.
+- Uses Jira to manage documentation requests.
+- Updates and maintains Confluence pages about technical writing at Posit.
 
 ### DIGITIZATION PROJECTS COORDINATOR
 
@@ -81,4 +83,4 @@ State Farm Insurance | November 2011 - August 2014
 
 - Researched, designed, produced, edited, and implemented communication and change management solutions to meet business needs.
 - Provided communication consulting services, including audience and business needs analysis, development of communication strategies and the development of cost-effective delivery options.
-- Created technical documentation (training materials, support guides, and memorandums) to support the claims automations and procedures department.
+- Created technical documentation (e.g., training materials, support guides, memos, and presentations) to support the claims automations and procedures department.
