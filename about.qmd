@@ -25,7 +25,7 @@ Bachelor of Arts, English |
 
 Posit, PBC | May 2023 - November 2023; December 2024 - Present
 
-- Works with developers to write concise, digestible, and accurate documentation for the Posit software products.
+- Works with developers to write concise, digestible, and accurate documentation for Posit software products.
 - Conducts reviews of documentation to ensure content across software products is consistent with Style Guide standards.
 - Coordinates updates to documentation with other technical writers, developers, and company stakeholders.
 - Using the docs-as-code philosophy, leverages development tools/languages to write documentation, including: Git/GitHub,
