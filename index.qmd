@@ -18,4 +18,4 @@ That means I consider:
 |        along with 
 |
 |    **how things are organized and accessed** 
-| *(why is this section of text not included back there? should this be ordered differently? is this easily searchable?)*
+| *(what metadata exists for this information? is this documentation easily searchable or discoverable?)*

@@ -10,8 +10,11 @@ website:
         text: HOME
       - href: about.qmd
         text: RESUME
-      - href: contact.qmd
-        text: CONTACT
+      
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/sarahsdao/"
+        aria-label: "LinkedIn Profile"
 
 format:
   html:
