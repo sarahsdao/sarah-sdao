@@ -10,7 +10,6 @@ website:
         text: HOME
       - href: about.qmd
         text: RESUME
-      
     right:
       - icon: linkedin
         href: "https://www.linkedin.com/in/sarahsdao/"
