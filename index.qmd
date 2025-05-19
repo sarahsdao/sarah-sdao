@@ -6,16 +6,16 @@ format:
 
 <h1 style="text-align:center;">Oh, hi! I'm Sarah.</h1>
 
-![](images/headshot.jpg){width=25% fig-align="center"}
+![](headshot.jpg){width=25% fig-align="center"}
 
 I am both a technical writer and a librarian, offering a unique perspective on documentation. 
 
 That means I consider:
  
-|    **how things are written**
-|  *(are things spelled correctly? is proper grammar used? will this make sense to the audience for which it's intended?)*
+|   **how things are written** 
+|  *(is this documentation skimmable? what voice is this? will this make sense to the audience for which it's intended?)*
 |
 |        along with 
 |
-|    **how things are organized and accessed** 
+|  **how things are organized and accessed** 
 | *(what metadata exists for this information? is this documentation easily searchable or discoverable?)*
