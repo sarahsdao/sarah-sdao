@@ -7,9 +7,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: HOME
+        text: <i class="bi bi-house"></i> HOME
       - href: about.qmd
-        text: RESUME
+        text: <i class="bi bi-card-list"></i> RESUME
+      - href: writing_samples.qmd
+        text: <i class="bi bi-pencil"></i> WRITING SAMPLES
     right:
       - icon: linkedin
         href: "https://www.linkedin.com/in/sarahsdao/"
@@ -17,9 +19,6 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      light: cosmo
     toc: true
-
-
-
