@@ -87,7 +87,6 @@ State Farm Insurance | November 2011 - August 2014
 - Provided communication consulting services, including audience and business needs analysis, development of communication strategies and the development of cost-effective delivery options.
 - Created technical documentation (e.g., training materials, support guides, memos, and presentations) to support the claims automations and procedures department.
 
-
 ## PROFICIENCIES
 
 - Markdown
@@ -97,6 +96,8 @@ State Farm Insurance | November 2011 - August 2014
 - Confluence
 - VS Code
 - SnagIt
+- R
+- RStudio IDE
 - Google Analytics
 - Mac OS
 - Microsoft Office
