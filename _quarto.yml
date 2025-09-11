@@ -19,6 +19,5 @@ website:
 
 format:
   html:
-    theme: 
-      light: cosmo
     toc: true
+    brand: _brand.yml

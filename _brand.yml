@@ -1,0 +1,34 @@
+color: 
+  palette:
+    black: "#262424"
+    white:  "#FFFAFA"
+    purple: "#7E06A1"
+    light-purple: "#EAC4F5"
+    pink: "#E4C0D2"
+    blue: "#DFF4F7"
+  
+  background: white
+  foreground: black
+  primary: purple
+  secondary: pink
+  light: white
+  dark: "#1F1C1C"
+
+typography:
+  fonts:
+    - family: Figtree
+      source: google
+      style: normal
+    - family: DM Sans
+      source: google
+
+  base: 
+    family: Figtree
+
+  headings:
+    family: DM Sans
+
+defaults:
+  bootstrap:
+    defaults:
+      navbar-bg: "#EAC4F5"

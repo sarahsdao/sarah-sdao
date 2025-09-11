@@ -1,21 +1,21 @@
 ---
 format:
   html: 
-    fontsize: 12pt
+    fontsize: 13pt
 ---
 
 <h1 style="text-align:center;">Oh, hi! I'm Sarah.</h1>
 
-![](headshot.jpg){width=25% fig-align="center"}
+![](headshot.png){width=25% fig-align="center"}
 
 I am both a technical writer and a librarian, offering a unique perspective on documentation. 
 
 That means I consider:
  
-|   **how things are written** 
-|  *(is this documentation skimmable? what voice is this? will this make sense to the audience for which it's intended?)*
-|
-|        along with 
-|
-|  **how things are organized and accessed** 
-| *(what metadata exists for this information? is this documentation easily searchable or discoverable?)*
+**how things are written**
+*(is this documentation skimmable? what voice is this? will this make sense to the audience for which it's intended?)*
+       
+ along with 
+
+**how things are organized and accessed** 
+*(what metadata exists for this information? is this documentation easily searchable or discoverable?)*
