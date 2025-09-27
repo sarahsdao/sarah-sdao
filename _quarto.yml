@@ -16,6 +16,8 @@ website:
       - icon: linkedin
         href: "https://www.linkedin.com/in/sarahsdao/"
         aria-label: "LinkedIn Profile"
+       - icon: github
+        href: "https://github.com/sarahsdao"
   site-url: https://sarahsdao.github.io/sarah-sdao/
 
 format:
