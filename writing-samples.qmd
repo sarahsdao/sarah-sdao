@@ -1,0 +1,13 @@
+---
+format:
+  html:
+    fontsize: 13pt
+---
+
+## Quick start guides
+
+- [Analyze Data with Python Using the Posit Team Native App](https://www.snowflake.com/en/developers/guides/analyze-data-with-python-using-posit-team/)
+
+## Product documentation
+
+- [Posit Connect User Guide: Managing Connect section](https://docs.posit.co/connect/2025.10.0/user/managing-connect/)
