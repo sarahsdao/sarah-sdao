@@ -10,7 +10,7 @@ website:
         text: <i class="bi bi-house"></i> HOME
       - href: about.qmd
         text: <i class="bi bi-card-list"></i> RESUME
-      - href: writing_samples.qmd
+      - href: writing-samples.qmd
         text: <i class="bi bi-pencil"></i> WRITING SAMPLES
     right:
       - icon: linkedin

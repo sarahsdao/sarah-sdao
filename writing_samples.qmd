@@ -1,7 +1,0 @@
----
-format:
-  html: 
-    fontsize: 12pt
----
-
-Coming soon!

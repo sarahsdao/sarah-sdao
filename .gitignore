@@ -1,9 +1,12 @@
 **/*.quarto_ipynb
+docs/*
 _site/
-/.quarto/
+.quarto/
 .bash_history
 .cache/*
 /_publish.yml
 .quarto/
 .DS_Store
 __pycache__/
+
+/.quarto/
