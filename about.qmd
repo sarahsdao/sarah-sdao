@@ -26,14 +26,15 @@ Bachelor of Arts, English |
 
 Posit, PBC | May 2023 - November 2023; December 2024 - Present
 
-- Works with developers to write concise, digestible, and accurate documentation for Posit software products including Posit Workbench, Posit Connect, Posit Package Manager, and the RStudio IDE.
+- Works with developers to write concise, digestible, and accurate documentation for Posit software products including Posit Workbench, Posit Connect, Posit Package Manager, the Posit Team Snowflake Native App, and the RStudio IDE.
 - Conducts reviews of documentation to ensure content across software products is consistent with Style Guide standards.
 - Coordinates updates to documentation with other technical writers, developers, QA, Support and Solutions Engineering.
 - Using the docs-as-code philosophy, leverages development tools/languages to write documentation, including: Git/GitHub, Quarto, and Visual Studio Code.
 - Uses Jira to triage and manage documentation requests.
+- Leverages Claude Code and other AI solutions to enable faster project planning, documentation reviews, and code development and testing.
 - Updates and maintains Confluence pages about writing documentation at Posit.
-- Maintains the Posit Style Guide with the technical writing team.
-- Builds technical expertise through hands-on work with R, the RStudio IDE, Quarto features, and CSS for website styling.
+- Maintains and enforces the Posit Style Guide with the technical writing team.
+- Builds technical expertise through hands-on work with Positron, R, Python, RStudio, html and CSS.
 
 ### DIGITIZATION PROJECTS COORDINATOR
 
@@ -97,9 +98,14 @@ Researched, designed, produced, edited, and implemented communication and change
 - Confluence
 - VS Code
 - SnagIt
+- Claude Code
 - R
+- Python
+- Positron IDE
 - RStudio IDE
+- Snowflake Snowsight
 - Google Analytics
+- Google Search Console
 - Mac OS
 - Microsoft Office
 - Preservica
