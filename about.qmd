@@ -8,21 +8,23 @@ format:
 
 An experienced and dedicated remote worker, technical writer, editor, librarian, and communicator. Understands the perspectives of software users and collaborates with developers to create documentation that works. A quick learner who adapts well to new environments and builds positive relationships with partners and stakeholders.
 
+Fuses knowledge of librarianship and technical writing by making complex systems understandable and trustworthy. Brings values of librarianship -- thoughtful access, stewardship, clarity, and service -- into technical spaces. Focuses on organizing and writing information so people can find what they need, make informed decisions, and feel supported.
+
 ## EDUCATION
 
 **University of Illinois at Urbana-Champaign**
 
 Master of Science, Library & Information Science |
-2016 | GPA 3.9
+2016
 
 **University of Nebraska-Lincoln**
 
 Bachelor of Arts, English |
-2011 | GPA 3.9
+2011
 
 ## CAREER
 
-### TECHNICAL WRITER 
+### TECHNICAL WRITER
 
 Posit, PBC | May 2023 - November 2023; December 2024 - Present
 
@@ -93,21 +95,19 @@ Researched, designed, produced, edited, and implemented communication and change
 
 - Markdown
 - Quarto
-- GitHub
+- GitHub / Git
 - Jira
 - Confluence
 - VS Code
+- Positron IDE
+- RStudio IDE
 - SnagIt
 - Claude Code
 - R
 - Python
-- Positron IDE
-- RStudio IDE
 - Snowflake Snowsight
 - Google Analytics
 - Google Search Console
-- Mac OS
-- Microsoft Office
 - Preservica
 - EBSCO Databases
 - ProQuest Databases
