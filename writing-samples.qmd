@@ -17,4 +17,4 @@ format:
    - [Managing environments](https://docs.posit.co/connect/2025.10.0/user/environments/)
    - [Integration management](https://docs.posit.co/connect/2025.10.0/user/managing-integrations/)
    - [Processes](https://docs.posit.co/connect/2025.10.0/user/processes/)
-   - [Tages](https://docs.posit.co/connect/2025.10.0/user/tags/)
+   - [Tags](https://docs.posit.co/connect/2025.10.0/user/tags/)
