@@ -8,9 +8,12 @@ format:
 
 - [Build and Deploy an Interactive Shiny Dashboard with the Posit Team Native App and Snowflake Cortex AI](https://www.snowflake.com/en/developers/guides/build-and-deploy-interactive-dashboard-with-posit-team-and-cortex/)
 - [Analyze Data with Python Using the Posit Team Native App](https://www.snowflake.com/en/developers/guides/analyze-data-with-python-using-posit-team/)
+- [Posit Workbench: Configure Entra ID with OpenID Connect](https://docs.posit.co/ide/server-pro/2026.05.0/admin/quick-starts/entraid-openid.html)
+- [Posit Workbench: Configure Okta with OpenID Connect](https://docs.posit.co/ide/server-pro/2026.05.0/admin/quick-starts/okta-openid.html)
 
 ## Product documentation
 
+- [Posit Workbench Admin Guide: Managing User Access to Workbench](https://docs.posit.co/ide/server-pro/2026.05.0/admin/authenticating_users/user_access_overview.html)
 - [Posit Connect User Guide: Managing Connect section](https://docs.posit.co/connect/2025.10.0/user/managing-connect/)
    - [Audit logs](https://docs.posit.co/connect/2025.10.0/user/audit-logs/)
    - [Custom documentation](https://docs.posit.co/connect/2025.10.0/user/custom-docs/)
