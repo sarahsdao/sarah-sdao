@@ -1,2 +1,3 @@
 # sarah-sdao
-A website for Sarah Sdao
+
+Sarah Sdao's professional website, including resume and writing samples.
