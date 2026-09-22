@@ -4,29 +4,52 @@ format:
     fontsize: 13pt
 ---
 
-## PROFILE
+## <i class="bi bi-person"></i> PROFILE
+
+::: {.profile-box}
 
 An experienced and dedicated remote worker, technical writer, editor, librarian, and communicator. Understands the perspectives of software users and collaborates with developers to create documentation that works. A quick learner who adapts well to new environments and builds positive relationships with partners and stakeholders.
 
 Fuses knowledge of librarianship and technical writing by making complex systems understandable and trustworthy. Brings values of librarianship -- thoughtful access, stewardship, clarity, and service -- into technical spaces. Focuses on organizing and writing information so people can find what they need, make informed decisions, and feel supported.
 
-## EDUCATION
+:::
+
+## <i class="bi bi-mortarboard"></i> EDUCATION
+
+:::: {.education-cards}
+
+::: {.education-card}
 
 **University of Illinois at Urbana-Champaign**
 
-Master of Science, Library & Information Science |
-2016
+[Master of Science, Library & Information Science | 2016]{.degree}
+
+:::
+
+::: {.education-card}
 
 **University of Nebraska-Lincoln**
 
-Bachelor of Arts, English |
-2011
+[Bachelor of Arts, English | 2011]{.degree}
 
-## CAREER
+:::
+
+::::
+
+## <i class="bi bi-briefcase"></i> CAREER
+
+::: {.timeline}
+
+::: {.timeline-item}
 
 ### TECHNICAL WRITER
 
-Posit, PBC | May 2023 - November 2023; December 2024 - Present
+::: {.role-meta}
+**Posit, PBC** | May 2023 - November 2023; December 2024 - Present
+:::
+
+<details open>
+<summary>Responsibilities & accomplishments</summary>
 
 **Ongoing responsibilities:**
 
@@ -45,9 +68,20 @@ Posit, PBC | May 2023 - November 2023; December 2024 - Present
 - Created an automated, AI-assisted maintenance plan for a documentation site that sits downstream of 20+ dependencies. The plan uses a weekly GitHub Action to check release notes for changes to dependencies (e.g., external and internal packages, products, and features) that might break the downstream documentation, and automatically creates GitHub issues for human review and action. This plan ensures the documentation remains accurate and up-to-date automatically, while reducing the time spent on maintenance tasks.
 - Helped accelerate customer onboarding by clarifying existing documentation and creating new admin-focused content that prioritizes actual installation and configuration paths, rather than listing product capabilities.
 
+</details>
+
+:::
+
+::: {.timeline-item}
+
 ### DIGITIZATION PROJECTS COORDINATOR
 
-Nebraska State Historical Society | July 2021 - May 2022
+::: {.role-meta}
+**Nebraska State Historical Society** | July 2021 - May 2022
+:::
+
+<details>
+<summary>Responsibilities & accomplishments</summary>
 
 - Oversaw digitization workflows of all materials in accordance with accepted standards.
 - Supervised and managed a team of students, employees and volunteers.
@@ -57,21 +91,41 @@ Nebraska State Historical Society | July 2021 - May 2022
 - Delegated reference inquiries from the public to staff for response and answered ready-reference questions.
 - Created and maintained training materials for digitization workflows and archival reference processes.
 
+</details>
+
+:::
+
+::: {.timeline-item}
+
 ### VIRTUAL REFERENCE LIBRARIAN
 
-Chatstaff | October 2016 - July 2021
+::: {.role-meta}
+**Chatstaff** | October 2016 - July 2021
+:::
+
+<details>
+<summary>Responsibilities & accomplishments</summary>
 
 - Used the LibraryH3lp platform to answer patron questions from hundreds of academic and public libraries across the globe.
-- Gained expert knowledge using LMS software and databases including, but not limited to: EBSCO, ProQuest, JSTOR, GALE,
-PubMed, Nexis Uni, Westlaw, and SimplyAnalytics.
+- Gained expert knowledge using LMS software and databases including, but not limited to: EBSCO, ProQuest, JSTOR, GALE, PubMed, Nexis Uni, Westlaw, and SimplyAnalytics.
 - Handled multiple (4+) chat reference interviews on varying topics and from various libraries simultaneously.
-- Assisted students with citation questions for APA, MLA, and Chicago styles and instructed on bibliographic management software such as
-EndNote and Zotero.
+- Assisted students with citation questions for APA, MLA, and Chicago styles and instructed on bibliographic management software such as EndNote and Zotero.
 - Created on-demand narrated videos in real time using TechSmith Capture to demonstrate various aspects of the research process.
+
+</details>
+
+:::
+
+::: {.timeline-item}
 
 ### GRADUATE RESEARCH ASSISTANT
 
-iSchool Student Affairs - University of Illinois Urbana-Champaign | August 2014 - August 2016
+::: {.role-meta}
+**iSchool Student Affairs - University of Illinois Urbana-Champaign** | August 2014 - August 2016
+:::
+
+<details>
+<summary>Responsibilities & accomplishments</summary>
 
 - Researched solutions and proposed ideas to engage students and faculty in various iSchool programs.
 - Developed, coordinated, and led the Academic Success Series program for both on-campus and distance students.
@@ -80,45 +134,77 @@ iSchool Student Affairs - University of Illinois Urbana-Champaign | August 2014 
 - Served as career consultant for peers: helped students develop and finalize résumés, CVs, and cover letters.
 - Updated iSchool webpages.
 
+</details>
+
+:::
+
+::: {.timeline-item}
+
 ### PRACTICUM INTERN: INSTRUCTION AND OPEN EDUCATIONAL RESOURCES (OER)
 
-Binghamton University Libraries | January 2016 - May 2016
+::: {.role-meta}
+**Binghamton University Libraries** | January 2016 - May 2016
+:::
+
+<details>
+<summary>Responsibilities & accomplishments</summary>
 
 - Researched and created OER instruction materials for library staff, faculty, and students.
 - Created, updated, and taught research skills programming for undergraduate students.
 - Created and maintained instruction (LibGuide and class) on ProQuest RefWorks.
-- Answered students’ research questions at the reference desk.
+- Answered students' research questions at the reference desk.
+
+</details>
+
+:::
+
+::: {.timeline-item}
 
 ### COMMUNICATIONS ANALYST
 
-State Farm Insurance | November 2011 - August 2014
+::: {.role-meta}
+**State Farm Insurance** | November 2011 - August 2014
+:::
+
+<details>
+<summary>Responsibilities & accomplishments</summary>
 
 - Created technical materials (e.g., documentation, training, support guides, memos, and presentations) to document standard claim-handling processes and support the claims automations and procedures department.
 - Wrote communications (presentations, speeches, memos, etc.) for executive leaders in the Claims department.
 - Researched, designed, produced, edited, and implemented communication and change management solutions to meet business needs.
 - Provided communication consulting services, including audience and business needs analysis, development of communication strategies and the development of cost-effective delivery options.
 
-## PROFICIENCIES
+</details>
 
-- Markdown
-- Quarto
-- GitHub / Git
-- Jira
-- Confluence
-- VS Code
-- Positron IDE
-- RStudio IDE
-- SnagIt
-- Claude Code
-- R
-- Python
-- Snowflake Snowsight
-- Google Analytics
-- Google Search Console
-- Preservica
-- EBSCO Databases
-- ProQuest Databases
-- JSTOR
-- RefWorks
-- LibGuides
-- LibraryH3lp
+:::
+
+:::
+
+## <i class="bi bi-tools"></i> PROFICIENCIES
+
+::: {.skill-badges}
+
+[Markdown]{.skill-badge}
+[Quarto]{.skill-badge}
+[GitHub / Git]{.skill-badge}
+[Jira]{.skill-badge}
+[Confluence]{.skill-badge}
+[VS Code]{.skill-badge}
+[Positron IDE]{.skill-badge}
+[RStudio IDE]{.skill-badge}
+[SnagIt]{.skill-badge}
+[Claude Code]{.skill-badge}
+[R]{.skill-badge}
+[Python]{.skill-badge}
+[Snowflake Snowsight]{.skill-badge}
+[Google Analytics]{.skill-badge}
+[Google Search Console]{.skill-badge}
+[Preservica]{.skill-badge}
+[EBSCO Databases]{.skill-badge}
+[ProQuest Databases]{.skill-badge}
+[JSTOR]{.skill-badge}
+[RefWorks]{.skill-badge}
+[LibGuides]{.skill-badge}
+[LibraryH3lp]{.skill-badge}
+
+:::

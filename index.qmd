@@ -1,21 +1,48 @@
 ---
 format:
-  html: 
+  html:
     fontsize: 13pt
+    toc: false
 ---
 
-<h1 style="text-align:center;">Oh, hi! I'm Sarah.</h1>
+:::: {.hero-section}
 
-![](headshot.png){width=25% fig-align="center"}
+::: {.hero-text}
 
-I am both a technical writer and a librarian, offering a unique perspective on documentation. 
+[Oh, hi! I'm Sarah.]{.greeting}
+
+## Technical Writer at Posit, PBC
+
+I am both a technical writer and a librarian, offering a unique perspective on documentation.
+
+:::
+
+::: {.hero-image}
+
+![](headshot.png)
+
+:::
+
+::::
 
 That means I consider:
- 
-**how things are written**
-*(is this documentation skimmable? what voice is this? will this make sense to the audience for which it's intended?)*
-       
- along with 
 
-**how things are organized and accessed** 
-*(what metadata exists for this information? is this documentation easily searchable or discoverable?)*
+:::: {.value-cards}
+
+::: {.value-card}
+
+### <i class="bi bi-pen"></i> How things are written
+
+Is this documentation skimmable? What voice is this? Will this make sense to the audience for which it's intended?
+
+:::
+
+::: {.value-card}
+
+### <i class="bi bi-diagram-3"></i> How things are organized and accessed
+
+What metadata exists for this information? Is this documentation easily searchable or discoverable?
+
+:::
+
+::::

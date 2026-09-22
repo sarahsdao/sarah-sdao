@@ -4,24 +4,66 @@ format:
     fontsize: 13pt
 ---
 
-## Documentation apps
+::: {.category-header}
+## <i class="bi bi-rocket-takeoff"></i> Quick start guides
+:::
 
-- [Posit Team Install Planner](https://docs.posit.co/install-planner)
+::: {.sample-card}
+[Build and Deploy an Interactive Shiny Dashboard with the Posit Team Native App and Snowflake Cortex AI](https://www.snowflake.com/en/developers/guides/build-and-deploy-interactive-dashboard-with-posit-team-and-cortex/)
 
-## Quick start guides
+[A Snowflake quick start guide for building and deploying a Shiny dashboard powered by Cortex AI.]{.description}
+:::
 
-- [Build and Deploy an Interactive Shiny Dashboard with the Posit Team Native App and Snowflake Cortex AI](https://www.snowflake.com/en/developers/guides/build-and-deploy-interactive-dashboard-with-posit-team-and-cortex/)
-- [Analyze Data with Python Using the Posit Team Native App](https://www.snowflake.com/en/developers/guides/analyze-data-with-python-using-posit-team/)
-- [Posit Workbench: Configure Entra ID with OpenID Connect](https://docs.posit.co/ide/server-pro/2026.05.0/admin/quick-starts/entraid-openid.html)
-- [Posit Workbench: Configure Okta with OpenID Connect](https://docs.posit.co/ide/server-pro/2026.05.0/admin/quick-starts/okta-openid.html)
+::: {.sample-card}
+[Analyze Data with Python Using the Posit Team Native App](https://www.snowflake.com/en/developers/guides/analyze-data-with-python-using-posit-team/)
 
-## Product documentation
+[A Snowflake quick start guide for running Python data analysis workflows in the Posit Team Native App.]{.description}
+:::
 
-- [Posit Workbench Admin Guide: Managing User Access to Workbench](https://docs.posit.co/ide/server-pro/2026.05.0/admin/authenticating_users/user_access_overview.html)
-- [Posit Connect User Guide: Managing Connect section](https://docs.posit.co/connect/2025.10.0/user/managing-connect/)
-   - [Audit logs](https://docs.posit.co/connect/2025.10.0/user/audit-logs/)
-   - [Custom documentation](https://docs.posit.co/connect/2025.10.0/user/custom-docs/)
-   - [Managing environments](https://docs.posit.co/connect/2025.10.0/user/environments/)
-   - [Integration management](https://docs.posit.co/connect/2025.10.0/user/managing-integrations/)
-   - [Processes](https://docs.posit.co/connect/2025.10.0/user/processes/)
-   - [Tags](https://docs.posit.co/connect/2025.10.0/user/tags/)
+::: {.sample-card}
+[Posit Workbench: Configure Entra ID with OpenID Connect](https://docs.posit.co/ide/server-pro/2026.05.0/admin/quick-starts/entraid-openid.html)
+
+[Step-by-step guide for configuring Microsoft Entra ID authentication for Posit Workbench using OpenID Connect.]{.description}
+:::
+
+::: {.sample-card}
+[Posit Workbench: Configure Okta with OpenID Connect](https://docs.posit.co/ide/server-pro/2026.05.0/admin/quick-starts/okta-openid.html)
+
+[Step-by-step guide for configuring Okta authentication for Posit Workbench using OpenID Connect.]{.description}
+:::
+
+::: {.category-header}
+## <i class="bi bi-book"></i> Product documentation
+:::
+
+::: {.sample-card}
+[Posit Workbench Admin Guide: Managing User Access to Workbench](https://docs.posit.co/ide/server-pro/2026.05.0/admin/authenticating_users/user_access_overview.html)
+
+[Admin guide page explaining user access controls and authentication configuration for Posit Workbench.]{.description}
+:::
+
+::: {.sample-card}
+[Posit Connect User Guide: Managing Connect section](https://docs.posit.co/connect/2025.10.0/user/managing-connect/)
+
+[User guide pages for Posit Connect administration.]{.description}
+
+::: {.nested-links}
+- [Audit logs](https://docs.posit.co/connect/2025.10.0/user/audit-logs/)
+- [Custom documentation](https://docs.posit.co/connect/2025.10.0/user/custom-docs/)
+- [Managing environments](https://docs.posit.co/connect/2025.10.0/user/environments/)
+- [Integration management](https://docs.posit.co/connect/2025.10.0/user/managing-integrations/)
+- [Processes](https://docs.posit.co/connect/2025.10.0/user/processes/)
+- [Tags](https://docs.posit.co/connect/2025.10.0/user/tags/)
+:::
+
+:::
+
+::: {.category-header}
+## <i class="bi bi-app"></i> Documentation apps
+:::
+
+::: {.sample-card}
+[Posit Team Install Planner](https://docs.posit.co/install-planner)
+
+[An interactive tool that customizes and consolidates scattered installation resources for Posit products based on your environment and configuration.]{.description}
+:::

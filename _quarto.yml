@@ -22,3 +22,6 @@ format:
   html:
     toc: true
     brand: _brand.yml
+    css: styles.css
+    grid:
+      body-width: 1000px
