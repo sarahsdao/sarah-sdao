@@ -4,6 +4,10 @@ format:
     fontsize: 13pt
 ---
 
+## Documentation apps
+
+- [Posit Team Install Planner](https://docs.posit.co/install-planner)
+
 ## Quick start guides
 
 - [Build and Deploy an Interactive Shiny Dashboard with the Posit Team Native App and Snowflake Cortex AI](https://www.snowflake.com/en/developers/guides/build-and-deploy-interactive-dashboard-with-posit-team-and-cortex/)
